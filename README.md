@@ -1,2 +1,5 @@
+
 # Orange PC Simulator Releases
-Releases of Orange PC Simulator
+
+Данный репозиторий предназначен исключительно для публикации официальных релизов и обновлений симулятора Orange PC Simulator.
+
